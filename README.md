@@ -35,6 +35,8 @@ User IDs of participants (to randomly select winners)
 
 Server ID and channel ID (for giveaway execution)
 
+User DM access(Directly message the winner)
+
 No personal, private, or message content is stored.
 
 2. Data Storage
